@@ -9,7 +9,7 @@ const Home = () => {
       <h1 className="home-title fw-bold mb-3 pb-2 border-bottom border-3 border-danger">
         Front end Developer
       </h1>
-        <p className="border-start border-4 border-danger-subtle mt-3 ps-3 fs-5 shine-text">
+        <p className="border-start border-4 border-danger-subtle mt-3 ps-2 fs-5 shine-text">
           <em>Apaixonada por criar experiências visuais incríveis.</em>
         </p>
       </div>

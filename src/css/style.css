@@ -243,8 +243,12 @@ span {
   }
 
 @media (max-width: 575.98px) {
+  .shine-text {
+    width: 90%;
+  }
+
   .img-fluid-certification {
-    width: 75% !important;
+    width: 100% !important;
   }
 
   .carousel-inner .desc {
@@ -278,7 +282,6 @@ span {
     align-items: flex-start;
   }
 }
-
 
 @media (max-width: 768px) {
     .img-fluid {
