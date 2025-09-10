@@ -61,7 +61,7 @@ const Projects = () => {
                   <div className="overlay-white"></div>
                   <div className="project-content text-center">
                     <h5 className="fw-bold border-bottom border-1 border-dark-subtle">{project.title}</h5>
-                    <p className="small mt-3 mb-4 bg-danger rounded w-50 text-white border border-top-0 border-danger-subtle border-2">{project.desc}</p>
+                    <p className="desc small mt-3 mb-4 bg-danger rounded w-50 text-white border border-top-0 border-danger-subtle border-2">{project.desc}</p>
                     <div className="mt-3">
                       <a href={project.github} className="btn btn-outline-danger btn-sm me-2" target="_blank" rel="noopener noreferrer">
                         Ver no GitHub

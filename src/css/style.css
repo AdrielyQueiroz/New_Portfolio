@@ -241,6 +241,25 @@ span {
   .footer p {
     line-height: 30px;
   }
+
+@media (max-width: 575.98px) {
+  .img-fluid-certification {
+    width: 75% !important;
+  }
+
+  .carousel-inner .desc {
+    margin-left: 30px !important;
+    width: 80% !important;
+  }
+
+  .carousel-inner .btn {
+      margin-top: 5px;
+  }
+
+  .home-title {
+    font-size: 35px;
+  }
+}
   
 @media (max-width: 991.98px) {
   .navbar-collapse {
@@ -259,9 +278,6 @@ span {
     align-items: flex-start;
   }
 }
-
-
-
 
 
 @media (max-width: 768px) {

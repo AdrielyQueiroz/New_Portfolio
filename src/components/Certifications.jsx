@@ -58,7 +58,7 @@ const Certifications = () => {
                   <img
                     src={cert.img}
                     alt={cert.title}
-                    className="img-fluid shadow rounded-3"
+                    className="img-fluid-certification shadow rounded-3"
                     style={{ maxHeight: "500px", objectFit: "contain" }}
                   />
                 </div>

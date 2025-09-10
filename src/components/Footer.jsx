@@ -33,7 +33,7 @@ const Footer = () => (
             href="mailto:AdrielySqueiroz.203@gmail.com"
             className="text-light d-flex align-items-center text-decoration-none fs-5"
           >
-            <i className="bi bi-envelope-at-fill me-2"></i>
+            <i className="bi bi-envelope-at-fill me-2 gmail"></i>
             Adrielysqueiroz.203@gmail.com
           </a>
         </div>
