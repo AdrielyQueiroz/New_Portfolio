@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/New_Portfolio/static/css/main.bc90eb64.css",
-    "main.js": "/New_Portfolio/static/js/main.e0693c7c.js",
+    "main.css": "/New_Portfolio/static/css/main.2a779fdc.css",
+    "main.js": "/New_Portfolio/static/js/main.5560103d.js",
     "static/js/453.0a36081d.chunk.js": "/New_Portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/expo_art.png": "/New_Portfolio/static/media/expo_art.592060b2d0c53bbe3347.png",
     "static/media/whey_protein.png": "/New_Portfolio/static/media/whey_protein.1be8aab29be600c1c82c.png",
@@ -12,6 +12,7 @@
     "static/media/front.jpg": "/New_Portfolio/static/media/front.6ba8846d7cba754cb994.jpg",
     "static/media/web.png": "/New_Portfolio/static/media/web.2d793820146b9d76aed2.png",
     "static/media/bootstrap.png": "/New_Portfolio/static/media/bootstrap.05385a6f00e1c1e5248f.png",
+    "static/media/vetor.png": "/New_Portfolio/static/media/vetor.595c6ec49e0c565ca58d.png",
     "static/media/site-simples.png": "/New_Portfolio/static/media/site-simples.25878c00b64b838ea705.png",
     "static/media/introducao.png": "/New_Portfolio/static/media/introducao.de5b5cecca4d4c039032.png",
     "static/media/logica.png": "/New_Portfolio/static/media/logica.990488d2755cfa65dd18.png",
@@ -19,23 +20,21 @@
     "static/media/boxshadow.png": "/New_Portfolio/static/media/boxshadow.dd6e14a7914589abe959.png",
     "static/media/react.png": "/New_Portfolio/static/media/react.85fdbe6d8d4571a01ba6.png",
     "static/media/html.jpg": "/New_Portfolio/static/media/html.7e5aca874be71efe1867.jpg",
+    "static/media/home.jpg": "/New_Portfolio/static/media/home.a9d2535c16d33dae342c.jpg",
     "static/media/formulario.png": "/New_Portfolio/static/media/formulario.0a6ed9fecc1c1f4e9853.png",
-    "static/media/vetor-certificados.png": "/New_Portfolio/static/media/vetor-certificados.5418aa4b8fed2ffd3dad.png",
     "static/media/tailwind.jpg": "/New_Portfolio/static/media/tailwind.34cff15c5f4297bf04bf.jpg",
     "static/media/form-bootstrap.png": "/New_Portfolio/static/media/form-bootstrap.13382e9c86f26a6e4a49.png",
-    "static/media/home.jpg": "/New_Portfolio/static/media/home.62f508819af2cf6faf81.jpg",
     "static/media/css.png": "/New_Portfolio/static/media/css.bc75ccc78e3bf74f8aed.png",
     "static/media/js.jpg": "/New_Portfolio/static/media/js.63cbfafdcf1063d82a23.jpg",
     "static/media/qrcode.png": "/New_Portfolio/static/media/qrcode.b7efc663c93b9a6e0a5f.png",
-    "static/media/vetor.png": "/New_Portfolio/static/media/vetor.e1c0a7d9b36f315c9e70.png",
     "static/media/bootstrap-logo.png": "/New_Portfolio/static/media/bootstrap-logo.1f71fd49c820640e0382.png",
     "index.html": "/New_Portfolio/index.html",
-    "main.bc90eb64.css.map": "/New_Portfolio/static/css/main.bc90eb64.css.map",
-    "main.e0693c7c.js.map": "/New_Portfolio/static/js/main.e0693c7c.js.map",
+    "main.2a779fdc.css.map": "/New_Portfolio/static/css/main.2a779fdc.css.map",
+    "main.5560103d.js.map": "/New_Portfolio/static/js/main.5560103d.js.map",
     "453.0a36081d.chunk.js.map": "/New_Portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc90eb64.css",
-    "static/js/main.e0693c7c.js"
+    "static/css/main.2a779fdc.css",
+    "static/js/main.5560103d.js"
   ]
 }
