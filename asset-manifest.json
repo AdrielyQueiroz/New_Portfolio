@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/New_Portfolio/static/css/main.e79eb069.css",
-    "main.js": "/New_Portfolio/static/js/main.cc034e7a.js",
+    "main.css": "/New_Portfolio/static/css/main.b85d7485.css",
+    "main.js": "/New_Portfolio/static/js/main.59d38264.js",
     "static/js/453.0a36081d.chunk.js": "/New_Portfolio/static/js/453.0a36081d.chunk.js",
     "static/media/expo_art.png": "/New_Portfolio/static/media/expo_art.592060b2d0c53bbe3347.png",
     "static/media/whey_protein.png": "/New_Portfolio/static/media/whey_protein.1be8aab29be600c1c82c.png",
@@ -29,12 +29,12 @@
     "static/media/qrcode.png": "/New_Portfolio/static/media/qrcode.b7efc663c93b9a6e0a5f.png",
     "static/media/bootstrap-logo.png": "/New_Portfolio/static/media/bootstrap-logo.1f71fd49c820640e0382.png",
     "index.html": "/New_Portfolio/index.html",
-    "main.e79eb069.css.map": "/New_Portfolio/static/css/main.e79eb069.css.map",
-    "main.cc034e7a.js.map": "/New_Portfolio/static/js/main.cc034e7a.js.map",
+    "main.b85d7485.css.map": "/New_Portfolio/static/css/main.b85d7485.css.map",
+    "main.59d38264.js.map": "/New_Portfolio/static/js/main.59d38264.js.map",
     "453.0a36081d.chunk.js.map": "/New_Portfolio/static/js/453.0a36081d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e79eb069.css",
-    "static/js/main.cc034e7a.js"
+    "static/css/main.b85d7485.css",
+    "static/js/main.59d38264.js"
   ]
 }
